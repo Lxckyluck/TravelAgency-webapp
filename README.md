@@ -90,7 +90,7 @@ public/images/
 
 ```bash
 # 1. Cloner ou extraire le projet
-cd TravelAgency-webapp
+git clone https://github.com/Lxckyluck/TravelAgency-webapp.git && cd TravelAgency-webapp
 
 # 2. Installer les dependances
 pnpm install
