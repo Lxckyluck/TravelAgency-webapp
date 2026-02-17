@@ -133,15 +133,7 @@ v0 a genere un brief de design interne avec les parametres :
 
 ### Prompts de generation des images
 
-Les 4 visuels du site ont ete generes par IA (GenerateImage) avec les prompts suivants :
-
-1. **hero-bg.jpg** : _"Abstract cinematic dark background for a time travel agency website, swirling cosmic vortex with golden light trails and dark navy blue space, particles of light forming a clock-like spiral pattern, mysterious and luxurious feeling, deep blacks with golden amber accents, subtle star field"_
-
-2. **paris-1889.jpg** : _"Cinematic wide shot of Paris 1889 during the Exposition Universelle, the Eiffel Tower newly built and illuminated with warm golden lights at dusk, Belle Epoque architecture, crowds in Victorian-era clothing, dramatic sky with purple and gold clouds, painterly photorealistic style"_
-
-3. **cretaceous.jpg** : _"Cinematic wide shot of the Cretaceous period, a lush prehistoric jungle with massive ferns and towering conifers, a T-Rex in the distance near a misty river, dramatic volcanic mountains in the background, warm golden sunlight filtering through dense vegetation, hyper-realistic painterly style"_
-
-4. **florence-1504.jpg** : _"Cinematic wide shot of Florence Italy in 1504 during the Renaissance, the Duomo cathedral dominating the skyline, terracotta rooftops, cobblestone streets with artists and merchants, Leonardo da Vinci era, warm sunset light bathing the city in golden orange, painterly photorealistic style"_
+Les 4 visuels du site ont été générés par IA lors de la première session du cours d'IA.
 
 ### System prompt du chatbot
 
