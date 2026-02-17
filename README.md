@@ -217,8 +217,9 @@ Le processus illustre comment un outil d'IA generative peut accelerer considerab
 ## Licence
 
 Projet realisé dans un cadre educatif avec :
-Yohann DEBREUX
-Nakib BOINAHERI
-Stephane YAGIR
-Cédric SIMPORE
-Lucas DENIS
+
+- Yohann DEBREUX
+- Nakib BOINAHERI
+- Stephane YAGIR
+- Cédric SIMPORE
+- Lucas DENIS
